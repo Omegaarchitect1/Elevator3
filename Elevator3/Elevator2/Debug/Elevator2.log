@@ -1,0 +1,4 @@
+﻿  Elevator2.cpp
+z:\c++\elevator2\elevator2\elevator2.cpp(28): warning C4474: 'printf' : too many arguments passed for format string
+  z:\c++\elevator2\elevator2\elevator2.cpp(28): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  Elevator2.vcxproj -> Z:\C++\Elevator2\Debug\Elevator2.exe
